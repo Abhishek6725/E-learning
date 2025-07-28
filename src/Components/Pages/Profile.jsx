@@ -71,7 +71,7 @@ export default function Profile() {
                         Full Stack Developer
                       </p>
                       <p className="text-muted mb-4">
-                        Chennai, Tamilnadu, India
+                        Patna,Bihar, India
                       </p>
                       {/* <div className="d-flex justify-content-center mb-2">
                                                 <MDBBtn>Follow</MDBBtn>
@@ -93,7 +93,7 @@ export default function Profile() {
                             icon="github fa-lg"
                             style={{ color: "#333333" }}
                           />
-                          <MDBCardText>basant-goswami</MDBCardText>
+                          <MDBCardText>Abhishek</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -101,7 +101,7 @@ export default function Profile() {
                             icon="twitter fa-lg"
                             style={{ color: "#55acee" }}
                           />
-                          <MDBCardText>@basantgoswmai_</MDBCardText>
+                          <MDBCardText>@Abhishekkumar_</MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -109,7 +109,7 @@ export default function Profile() {
                             icon="instagram fa-lg"
                             style={{ color: "#ac2bac" }}
                           />
-                          <MDBCardText>basant.bharati.54</MDBCardText>
+                          <MDBCardText>Abhishek </MDBCardText>
                         </MDBListGroupItem>
                         <MDBListGroupItem className="d-flex justify-content-between align-items-center p-3">
                           <MDBIcon
@@ -117,7 +117,7 @@ export default function Profile() {
                             icon="facebook fa-lg"
                             style={{ color: "#3b5998" }}
                           />
-                          <MDBCardText>basant bharati</MDBCardText>
+                          <MDBCardText>Abhishek</MDBCardText>
                         </MDBListGroupItem>
                       </MDBListGroup>
                     </MDBCardBody>
@@ -176,7 +176,7 @@ export default function Profile() {
                         </MDBCol>
                         <MDBCol sm="9">
                           <MDBCardText className="text-muted">
-                            Chennai, Tamilnadu, India
+                            Patna,Bihar, India
                           </MDBCardText>
                         </MDBCol>
                       </MDBRow>
