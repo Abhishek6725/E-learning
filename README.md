@@ -13,6 +13,8 @@ e-learning-app/
 ├── frontend/         # React + Vite client
 ├── package.json      # Root package.json with monorepo scripts
 └── README.md         # Project documentation
+
+
 ⚙️ Quick Start
 1. Install Dependencies
 
