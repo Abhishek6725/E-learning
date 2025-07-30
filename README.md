@@ -8,11 +8,13 @@ A full-stack E-learning Web Application built with React (Vite) on the frontend,
 
 📁 Project Structure
 
+
+
 e-learning-app/
-├── backend/          # Node.js + Express API server
-├── frontend/         # React + Vite client
-├── package.json      # Root package.json with monorepo scripts
-└── README.md         # Project documentation
+backend/          # Node.js + Express API server
+frontend/         # React + Vite client
+package.json      # Root package.json with monorepo scripts
+README.md         # Project documentation
 
 
 ⚙️ Quick Start
@@ -83,7 +85,7 @@ Responsive: Fully responsive UI for all devices
 Frontend deployed on Vercel. You can link your GitHub repo directly to Vercel for CI/CD.
 
 For backend (optional):
-You can deploy to Render, Railway, or MongoDB Atlas + Vercel serverless functions.
+deploy to MongoDB Atlas + Vercel serverless functions.
 
 🔐 Environment Variables
 Create a .env file inside /backend:
